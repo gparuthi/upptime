@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/app.arboreum.dev",
     "slug": "arboreum",
     "status": "up",
-    "uptime": "2.60%",
-    "uptimeDay": "2.60%",
-    "uptimeWeek": "2.60%",
-    "uptimeMonth": "2.60%",
-    "uptimeYear": "2.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 430,
     "timeDay": 430,
     "timeWeek": 430,
     "timeMonth": 430,
     "timeYear": 430,
-    "dailyMinutesDown": {
-      "2020-12-28": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
