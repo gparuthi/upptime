@@ -1,19 +1,13 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: gparuthi # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
   - name: Arboreum
-    url: https//app.arboreum.dev
+    url: https://app.arboreum.dev
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
