@@ -5,21 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 228,
-    "timeWeek": 176,
+    "timeDay": 164,
+    "timeWeek": 158,
     "timeMonth": 162,
     "timeYear": 173,
-    "dailyMinutesDown": {
-      "2021-03-02": 34,
-      "2021-01-17": 40,
-      "2020-12-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Arboreum",
@@ -33,9 +29,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 301,
-    "timeDay": 195,
-    "timeWeek": 210,
-    "timeMonth": 250,
+    "timeDay": 319,
+    "timeWeek": 235,
+    "timeMonth": 253,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2021-03-02": 34,
